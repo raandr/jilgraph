@@ -1,2 +1,0 @@
-#!/bin/bash
-mcs -debug -reference:System -reference:System.Xml -reference:System.Xml.Linq -reference:System.Xml.Serialization Jil2Graphml/Program.cs Jil2Graphml/JilGraph.cs -pkg:dotnet -lib:/usr/lib/mono/4.5;
