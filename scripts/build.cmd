@@ -1,0 +1,1 @@
+mcs -debug -reference:System -reference:System.Xml -reference:System.Xml.Linq -reference:System.Xml.Serialization %cd%\source\Jil2Graph\Program.cs %cd%\source\Jil2Graph\JilGraph.cs
