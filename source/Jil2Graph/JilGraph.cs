@@ -2,15 +2,22 @@ using System;
 using System.Xml;
 using System.Xml.Linq;
 
-class JilGraph
+namespace Jil2Graph
+
 {
-    GraphMl graph;
-    
 
-    JilGraph(JilFile file)
+
+    class JilGraph
     {
-        
-        
+        GraphMl graph;
 
+
+        JilGraph(JilFile file)
+        {
+
+
+
+        }
     }
+
 }
