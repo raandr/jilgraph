@@ -5,9 +5,11 @@ using System.Xml.Linq;
 class JilGraph
 {
     GraphMl graph;
+    
 
     JilGraph(JilFile file)
     {
+        
         
 
     }
